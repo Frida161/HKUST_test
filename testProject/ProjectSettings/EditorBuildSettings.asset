@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Package/[Package]Agora-RTC-Plugin/API-Example/Examples/Basic/JoinChannelAudio/BasicAudioCallScene.unity
-    guid: 1af6c3e08db844534ad959cdf0127444
+    path: Assets/Scenes/Scene.unity
+    guid: 4974991afd5833147bb4008ceb41830b
   m_configObjects: {}
